@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://fubo-tvhelp.readthedocs.io/en/latest/
+Sitemap: https://fubotvhelps.readthedocs.io/en/latest/
